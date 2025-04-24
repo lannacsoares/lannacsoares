@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩🏻‍💻 Lanna Soares
 
-<!--
-**lannacsoares/lannacsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência de Dados e Machine Learning no Centro Universitário de Brasília (CEUB). Este perfil é um espaço onde compartilho meus estudos, projetos e experimentos na área de dados enquanto desenvolvo minhas habilidades e aprofundo meus conhecimentos nesse universo fascinante.
 
-Here are some ideas to get you started:
+Atualmente, estou focada em projetos que envolvem análise e visualização de dados, sempre buscando aprender na prática e explorar novas ferramentas e técnicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fique à vontade para explorar, sugerir melhorias ou trocar ideias. Toda contribuição é bem-vinda! 🚀
+
+ <div>
+  <a href="https://github.com/lannacsoares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lannacsoares&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lannacsoares&layout=compact&langs_count=16&theme=cobalt"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lanna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
+
+##
+
+<div>
+ <a href = "lannacs05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lanna-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
