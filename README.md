@@ -30,31 +30,14 @@ Fique à vontade para explorar, sugerir melhorias ou trocar ideias. Toda contrib
 <br/>
 <br/>
 
-
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=lannacsoares&show_icons=true&theme=tokyonight&hide=contribs&locale=pt-br" 
-      />
-    </td>
-    <td>
-      <img 
-        alt="Top Languages" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannacsoares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
-
-<br/>
+<a href="https://github.com/lannacsoares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lannacsoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannacsoares&layout=compact&langs_count=16&theme=tokyonight&locale=pt-br"/>
+</a>
 
 ### 🌐 Redes & Contato
 <div>
- <a href = "mailto:lannacs05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lanna-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href = "mailto:lannacs05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lanna-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
