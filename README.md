@@ -36,8 +36,8 @@ Fique à vontade para explorar, sugerir melhorias ou trocar ideias. Toda contrib
 
 <div align="center">
 <a href="https://github.com/lannacsoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lannacsoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannacsoares&layout=compact&langs_count=16&theme=tokyonight&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lannacsoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lannacsoares&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </a>
 </div>
 
