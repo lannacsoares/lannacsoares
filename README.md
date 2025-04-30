@@ -32,12 +32,18 @@ Fique à vontade para explorar, sugerir melhorias ou trocar ideias. Toda contrib
 
 ### 📊 Estatísticas
 
+###
+
+<div align="center">
 <a href="https://github.com/lannacsoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lannacsoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannacsoares&layout=compact&langs_count=16&theme=tokyonight&locale=pt-br"/>
 </a>
+</div>
+
+### 
 
 ### 🌐 Redes & Contato
 <div>
     <a href = "mailto:lannacs05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lanna-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href="https://www.linkedin.com/in/lanna-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
